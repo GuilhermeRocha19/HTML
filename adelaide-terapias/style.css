@@ -188,3 +188,35 @@ footer a:hover{
     
 }
 
+main.f{
+    min-width: 300px;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.548);}
+    
+main.f ul {
+    margin-top: 30px;
+    font-size: 22px;
+    margin-left: 5px;
+}
+
+main.f li{
+    margin-bottom: 30px; }
+
+main.f > ul > li > a {
+    
+    color: rgb(11, 124, 100);
+    text-decoration: none;
+    font-weight: bolder;  }
+
+main.f > ul > li > a:hover{
+    color: #f5a511;
+    text-decoration: underline;
+}    
+  
+    
