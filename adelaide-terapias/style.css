@@ -130,7 +130,7 @@ main{
     
 }
 main img{
-    max-width: 350px;
+    width: 100%;
     display: block;
     margin: auto;
     
